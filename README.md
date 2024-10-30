@@ -2,6 +2,14 @@
 
 ### Project Title: E commmerce Sales Analysis
 
+-[Project Overview](#project-overview)
+
+-[Data Sources](#data-sources)
+
+-[Tools Used](#tools-used)
+
+-[Data Cleaning and preparation](3data-cleaning-and-preparation)
+
 ### Project Overview
 ---
 This Data Analysis project aims to regenerate insight into the sales performance of the E commercd promecg over the past year. By analysing the various parameter in the dafa received we seek to gather enough insight to make reasonable decisions which then enable us to tell compelling stories around our data from the insight gotten and to know the best performance from our data
@@ -46,3 +54,7 @@ WHERE CONDITION = TRUE
 ### Data Visualization
 [Copy of Pivot Tables File Gbotemi.xlsx](https://github.com/user-attachments/files/17569140/Copy.of.Pivot.Tables.File.Gbotemi.xlsx)
 
+
+|Heading 1|Heading 2|Heading 3|
+|---------|---------|---------|
+|Table 1|Table 2|Table 3|
